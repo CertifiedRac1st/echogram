@@ -1,0 +1,6 @@
+{
+  "name": "Echogram",
+  "description": "An application that takes an uploaded image, generates a similar new image with a clear background using AI, and displays the prompt used for generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
